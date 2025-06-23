@@ -34,7 +34,6 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <ComputersCanvas />
       <div
         className=" absolute 
        w-full flex justify-center items-center"
